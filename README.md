@@ -97,3 +97,4 @@ MIT License &mdash; see [LICENSE](LICENSE) for details.
 <div align="center">
   <sub>Built with precision by <a href="https://github.com/aprilNH7">aprilNH7</a></sub>
 </div>
+
